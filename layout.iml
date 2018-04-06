@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/location-1.1.7/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/location-1.1.7/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/location-1.1.7/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/location-1.1.7/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/map_view-0.0.10/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/map_view-0.0.10/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/map_view-0.0.10/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/map_view-0.0.10/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/matcher-0.12.1+4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/matcher-0.12.1+4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/quiver-0.28.0/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/quiver-0.28.0/build" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/uri-0.11.1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/uri-0.11.1/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+  </component>
+</module>
